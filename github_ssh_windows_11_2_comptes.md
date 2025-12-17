@@ -1,4 +1,3 @@
-```md
 # 🔐 Git + GitHub – 2 comptes SSH sous Windows 11
 
 Configuration propre et durable pour utiliser **2 comptes GitHub** (perso / pro) avec :
@@ -197,5 +196,4 @@ git config --list
 ---
 
 📌 *Snippet prêt à être copié dans un README.md ou une doc interne.*
-```
 
